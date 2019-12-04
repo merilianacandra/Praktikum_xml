@@ -102,7 +102,7 @@
                         android:layout_marginRight="10dp"
                         android:ems="18"
                         android:hint="Deskripsi Event"
-                        android:inputType="text"
+                        android:inputType="textMultiLine"
                         android:textSize="18sp" />
                 </com.google.android.material.textfield.TextInputLayout>
 
